@@ -1,7 +1,0 @@
-Omega_m       median =  0.10359  - 0.03591  + 0.06030  (mean =  0.11484)
-alpha0        median =  3.28570  - 1.86093  + 1.15106  (mean =  2.88135)
-alpha1        median =  1.35959  - 3.81945  + 2.58330  (mean =  0.91668)
-alpha_log     median =  3.72594  - 1.69621  + 0.84450  (mean =  3.36065)
-beta_psi      median =  0.77866  - 4.07945  + 3.18424  (mean =  0.44279)
-gamma_Omega   median =  4.00835  - 1.77345  + 0.72077  (mean =  3.42812)
-xi_psi        median = -3.35023  - 0.98409  + 1.14964  (mean = -3.27444)
